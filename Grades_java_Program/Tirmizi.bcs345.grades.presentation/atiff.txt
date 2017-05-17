@@ -1,0 +1,41 @@
+Mark
+Teixeira
+100
+Computer Systems
+12
+homework 1
+90.0
+Homework
+homework 2
+100.0
+Homework
+homework 3
+80.0
+Homework
+homework 4
+95.0
+Homework
+Exam 1
+88.0
+Exam
+Exam 2
+92.0
+Exam
+File Lab
+1.0
+Lab
+Classes Lab
+1.0
+Lab
+Syllabus Quiz
+100.0
+Quiz
+Ch 2
+80.0
+Quiz
+Ch 3
+100.0
+Quiz
+ch 4 and 5
+80.0
+Quiz
